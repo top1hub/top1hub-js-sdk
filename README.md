@@ -1,7 +1,8 @@
 #源速SDK  nodejs版Demo
 ##安装sdk module
+```javascript
 npm install top1hub-nodejs-sdk
-
+```
 ```javascript
 var mgr = new ResourceManager('输入安全码','输入容器名称');
 
